@@ -8,4 +8,6 @@ I like to connect my JavaScript code with my backend PHP with XMLHttpRequest.
 
 I made a cool Swift registration system for my macOS app!
 
+I recently made a deep breathing app.
+
 Thanks for reading!
