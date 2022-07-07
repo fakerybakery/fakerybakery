@@ -1,13 +1,13 @@
-Hi, I'm mrfakename! I like to stay private, so I won't talk about personal stuff here. I like to make open-sourced software and closed source software. The reason why my GitHub username is FakeryBakery is because I couldn't get `mrfakename`!
+Hey, I'm mrfakename, a developer based in California. (I'm under the age of 13).
 
-I like to code, and am working on a paid macOS app that lets you change your wallpaper. Everyone is telling me that nobody will buy the app - you can change your wallpaper easily through System Prefrences. But it's still really fun to work on it.
+I love coding and recently started a self-hosting experiment.
 
-I've learned a lot of PHP and Swift, I also code in CSS, HTML, and JavaScript.
+I make both open sourced projects and closed source projects, and probably have too many projects to maintain.
 
-I like to connect my JavaScript code with my backend PHP with XMLHttpRequest.
+I specialize in PHP, HTML, CSS, and JavaScript. I'm trying to learn Python and Node.js. I've recently been playing around with C#, and now know it pretty well.
 
-I made a cool Swift registration system for my macOS app!
+You can catch me on email, I'm me [at] mrfake [dot] name. Also feel free to check out my portfolio, visit it at [mrfake.name](https://mrfake.name).
 
-I recently made a deep breathing app.
+I've been working on [@getlinkshort](https://github.com/getlinkshort) and [@snippetsapp](https://github.com/snippetsapp) lately (both in PHP).
 
-Thanks for reading!
+Thank you for checking this out!
