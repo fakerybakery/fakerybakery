@@ -10,4 +10,15 @@ I specialize in PHP, HTML, CSS, and JavaScript. I'm trying to learn Python and N
 
 You can catch me on email, I'm me [at] mrfake [dot] name. My Twitter is [@realmrfakename](https://twitter.com/realmrfakename) Also feel free to check out my portfolio, visit it at [mrfake.name](https://mrfake.name).
 
-I've been working on [@getlinkshort](https://github.com/getlinkshort) and created [Flarum in a Nutshell](https://github.com/getfian).
+## My Projects
+* [LinkShort](https://github.com/getlinkshort) - an open-sourced link shortener
+* [Flarum in a Nutshell](https://github.com/getfian) - a simpler way to install flarum
+* [TideCSS](https://github.com/TideCSS/tide) - make electron look native (beta)
+* [PHPSearch](https://github.com/phpsearch/library) - a simpler way to search your MySQL database
+* [CrucialPHP](https://github.com/CrucialPHP/CrucialPHP) - in beta
+* [phpmag](https://github.com/phpmag/phpmag) - a simple magazine engine
+* [phpgif](https://github.com/phpgif)
+  * [phpgif](https://github.com/phpgif/phpgif) - make gifs - easily
+  * [ezgif](https://github.com/phpgif/ezgif) - an even easier way to make gifs
+* [SimpleOMS](https://github.com/SimpleOMS/SimpleOMS) - the simplest order management system on the web
+* Some more stuff that isn't as important
