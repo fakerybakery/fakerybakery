@@ -21,4 +21,5 @@ You can catch me on email, I'm me [at] mrfake [dot] name. My Twitter is [@realmr
   * [phpgif](https://github.com/phpgif/phpgif) - make gifs - easily
   * [ezgif](https://github.com/phpgif/ezgif) - an even easier way to make gifs
 * [SimpleOMS](https://github.com/SimpleOMS/SimpleOMS) - the simplest order management system on the web
+* [DeNOTE]([https://github.com/SimpleOMS/SimpleOMS](https://github.com/DeNOTE-Project/DeNOTE)) - private, encrypted, and free note-taking system
 * Some more stuff that isn't as important
