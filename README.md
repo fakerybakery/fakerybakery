@@ -1,8 +1,9 @@
-# Hey there!
-## I'm mrfakename!
+<div align="center">
 
-|:warning: Help a free thesaurus! Please contribute to [Lottamo Thesaurus](https://www.lottamo.com/)! Search for a word, add a word! Thanks! :warning:|
-|---|
+# Hey there!
+## [I'm mrfakename!](https://mrfake.name/)
+
+<a href="https://www.lottamo.com" target="_blank"><img src="https://user-images.githubusercontent.com/76186054/202862249-aa99853d-95fa-487f-9e71-3d646016da14.png" height="250"></a>
 
 I make both open sourced projects and closed source projects, and probably have too many projects to maintain.
 
@@ -23,3 +24,5 @@ You can catch me on email, I'm me [at] mrfake [dot] name. My Twitter is [@realmr
 * [SimpleOMS](https://github.com/SimpleOMS/SimpleOMS) - the simplest order management system on the web
 * [DeNOTE]([https://github.com/SimpleOMS/SimpleOMS](https://github.com/DeNOTE-Project/DeNOTE)) - private, encrypted, and free note-taking system
 * Some more stuff that isn't as important
+
+</div>
