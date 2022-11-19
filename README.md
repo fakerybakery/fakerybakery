@@ -3,7 +3,7 @@
 # Hey there!
 ## [I'm mrfakename!](https://mrfake.name/)
 
-<a href="https://www.lottamo.com" target="_blank"><img src="https://user-images.githubusercontent.com/76186054/202862249-aa99853d-95fa-487f-9e71-3d646016da14.png" height="250"></a>
+<a href="https://www.mrfake.name/ghpromo" target="_blank"><img src="https://mrfake.name/ghpromo/promo.png" height="250"></a>
 
 I make both open sourced projects and closed source projects, and probably have too many projects to maintain.
 
