@@ -25,4 +25,8 @@ You can catch me on email, I'm me [at] mrfake [dot] name. My Twitter is [@realmr
 * [DeNOTE]([https://github.com/SimpleOMS/SimpleOMS](https://github.com/DeNOTE-Project/DeNOTE)) - private, encrypted, and free note-taking system
 * Some more stuff that isn't as important
 
+## News
+### November 19, 2022
+* Archived a lot of repos.
+
 </div>
