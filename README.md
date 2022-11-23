@@ -11,8 +11,11 @@ I specialize in PHP, HTML, CSS, and JavaScript. I'm trying to learn Python and N
 
 You can catch me on email, I'm me [at] mrfake [dot] name. My Twitter is [@realmrfakename](https://twitter.com/realmrfakename) Also feel free to check out my portfolio, visit it at [mrfake.name](https://mrfake.name).
 
+</div>
+
 ## My Projects
 * [LinkShort](https://github.com/getlinkshort) - an open-sourced link shortener
+* [BlogMark](https://github.com/BlogMark/BlogMark) - The PHP-based static blog generator powered by MarkDown.
 * [Flarum in a Nutshell](https://github.com/getfian) - a simpler way to install flarum
 * [TideCSS](https://github.com/TideCSS/tide) - make electron look native (beta)
 * [PHPSearch](https://github.com/phpsearch/library) - a simpler way to search your MySQL database
@@ -24,9 +27,12 @@ You can catch me on email, I'm me [at] mrfake [dot] name. My Twitter is [@realmr
 * [SimpleOMS](https://github.com/SimpleOMS/SimpleOMS) - the simplest order management system on the web
 * [DeNOTE](https://github.com/DeNOTE-Project/DeNOTE) - private, encrypted, and free note-taking system
 * Some more stuff that isn't as important
-
+<div align="center">
+ 
 ## News
+### November 23, 2022
+Testing out a new blog software that I made, BlogMark, planning to eventually migrate my whole blog from WordPress to BlogMark. You can visit it [here](https://beta.blog.mrfake.name/).
 ### November 19, 2022
-* Archived a lot of repos.
+Archived a lot of repos.
 
 </div>
