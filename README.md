@@ -15,6 +15,10 @@ While I code, I like to listen to news. Many people find this strange, however I
 
 </div>
 
+## I'm working on
+
+### [BalladGPT](https://balladgpt.github.io/) - [Hugging Face](https://huggingface.co/balladgpt/balladgpt-v2)
+
 ## My Projects
 * [LinkShort](https://github.com/getlinkshort) - an open-sourced link shortener
 * [BlogMark](https://github.com/BlogMark/BlogMark) - The PHP-based static blog generator powered by MarkDown.
