@@ -11,7 +11,7 @@ I specialize in PHP, HTML, CSS, and JavaScript. I'm trying to learn Python and N
 
 You can catch me on email, I'm me [at] mrfake [dot] name. My Twitter is [@realmrfakename](https://twitter.com/realmrfakename) Also feel free to check out my portfolio, visit it at [mrfake.name](https://mrfake.name).
 
-While I code, I like to listen to news. Many people find this strange, however I find that I can code better while listening to something. But I can't write well while listening.
+I am currently trying to self-learn UI/UX design and logo design.
 
 </div>
 
