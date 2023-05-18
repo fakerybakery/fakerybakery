@@ -3,8 +3,6 @@
 # Hey there!
 ## [I'm mrfakename!](https://mrfake.name/)
 
-<a href="https://www.mrfake.name/ghpromo" target="_blank"><img src="https://mrfake.name/ghpromo/promo.png" height="250"></a>
-
 I make both open sourced projects and closed source projects, and probably have too many projects to maintain.
 
 I specialize in PHP, HTML, CSS, and JavaScript. I'm trying to learn Python and Node.js. I've recently been playing around with C#, and now know it pretty well.
