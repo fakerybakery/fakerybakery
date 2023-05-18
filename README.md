@@ -19,7 +19,7 @@ I am currently trying to self-learn UI/UX design and logo design.
 
 ## My Projects
 * [LinkShort](https://github.com/getlinkshort) - an open-sourced link shortener
-* [BlogMark](https://github.com/BlogMark/BlogMark) - The PHP-based static blog generator powered by MarkDown.
+* [BlogMark](https://github.com/BlogMark/BlogMark) - the PHP-based static blog generator powered by Markdown.
 * [Flarum in a Nutshell](https://github.com/getfian) - a simpler way to install flarum
 * [TideCSS](https://github.com/TideCSS/tide) - make electron look native (beta)
 * [PHPSearch](https://github.com/phpsearch/library) - a simpler way to search your MySQL database
@@ -30,7 +30,6 @@ I am currently trying to self-learn UI/UX design and logo design.
   * [ezgif](https://github.com/phpgif/ezgif) - an even easier way to make gifs
 * [SimpleOMS](https://github.com/SimpleOMS/SimpleOMS) - the simplest order management system on the web
 * [DeNOTE](https://github.com/DeNOTE-Project/DeNOTE) - private, encrypted, and free note-taking system
-* [Searchabl](https://github.com/Searchabl) - a better new tab page
 * Some more stuff that isn't as important
 <div align="center">
  
