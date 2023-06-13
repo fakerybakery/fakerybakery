@@ -15,7 +15,7 @@ I am currently trying to self-learn UI/UX design and logo design.
 
 ## I'm working on
 
-### [Blessable](https://github.com/fakerybakery/blessable)
+### [Blessable](https://github.com/fakerybakery/blessable) - A markup language for your CLI that's over 98% faster than Rich
 
 ## My Projects
 * [BalladGPT](https://balladgpt.github.io/) - gpt2 finetuned on ballads
