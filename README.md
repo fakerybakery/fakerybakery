@@ -15,9 +15,10 @@ I am currently trying to self-learn UI/UX design and logo design.
 
 ## I'm working on
 
-### [BalladGPT](https://balladgpt.github.io/) - [Hugging Face](https://huggingface.co/balladgpt/balladgpt-v2)
+### [Blessable](https://github.com/fakerybakery/blessable)
 
 ## My Projects
+* [BalladGPT](https://balladgpt.github.io/) - gpt2 finetuned on ballads
 * [LinkShort](https://github.com/getlinkshort) - an open-sourced link shortener
 * [BlogMark](https://github.com/BlogMark/BlogMark) - the PHP-based static blog generator powered by Markdown.
 * [Flarum in a Nutshell](https://github.com/getfian) - a simpler way to install flarum
