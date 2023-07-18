@@ -1,6 +1,6 @@
 ## [Website](https://mrfake.name/)
 ## (Non-Exhaustive) Directory
-### Currently working on: [Blessable](https://github.com/fakerybakery/blessable)
+### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [Tortoise TTS Guide](https://github.com/tortoisetts/tortoise-tts-guide)
 * [BalladGPT](https://balladgpt.github.io/)
 * [LinkShort](https://github.com/getlinkshort)
 * [BlogMark](https://github.com/BlogMark/BlogMark)
