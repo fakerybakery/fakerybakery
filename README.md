@@ -1,4 +1,3 @@
-[Announcement: I'm currently looking for new projects to create & open-source. Please feel free to contact me with any app/website/service ideas, but please don't expect royalties/attribution/etc! Thank you!]
 ## [Website](https://mrfake.name/)
 ## (Non-Exhaustive) Directory
 ### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [Tortoise TTS Guide](https://github.com/tortoisetts/tortoise-tts-guide)
