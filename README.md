@@ -1,6 +1,7 @@
 ## [Website](https://mrfake.name/)
+## News: You can now find me on [Codeberg](https://codeberg.org/mrfakename)!
 ## (Non-Exhaustive) Directory
-### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [Tortoise TTS Guide](https://github.com/tortoisetts/tortoise-tts-guide)
+### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [Tortoise TTS Guide]([https://github.com/tortoisetts/tortoise-tts-guide](https://codeberg.org/tortoisetts/tortoise-tts-guide))
 * [BalladGPT](https://balladgpt.github.io/)
 * [LinkShort](https://github.com/getlinkshort)
 * [BlogMark](https://github.com/BlogMark/BlogMark)
