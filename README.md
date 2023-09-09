@@ -1,4 +1,4 @@
-## :globe_with_meridians: [Website](https://mrfake.name/) [Blog](https://blog.mrfake.name/)
+## :globe_with_meridians: [Website](https://mrfake.name/) - [Blog](https://blog.mrfake.name/)
 
 ## :newspaper_roll: News
 
