@@ -2,7 +2,7 @@
 
 ### News: You can now find me on [Codeberg](https://codeberg.org/mrfakename)!
 
-## Product Spotlight: DeepSearchKit
+## :flashlight: Product Spotlight: DeepSearchKit
 
 Easily integrate semantic search into your projects! Stop wasting hours building advanced, slow search algorithms! Let AI do the work for you! DeepSearchKit is free, fast, and open-sourced, with full GPU acceleration support, easy ways to save your embeddings, and more! Install today: `pip3 install deepsearchkit`
 
