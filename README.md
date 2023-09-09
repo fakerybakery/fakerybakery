@@ -8,6 +8,12 @@
 
 Easily integrate semantic search into your projects! Stop wasting hours building advanced, slow search algorithms! Let AI do the work for you! DeepSearchKit is free, fast, and open-sourced, with full GPU acceleration support, easy ways to save your embeddings, and more! Install today: `pip3 install deepsearchkit`
 
+## :telephone_receiver: Contact
+
+E-mail: `me [ @ ] mrfake [ dot ] name`
+
+Twitter: [@realmrfakename](https://twitter.com/realmrfakename) (Just got off BSKY waitlist, but I literally never use it. Anyway, I'm @mfn there.)
+
 ## :open_file_folder: (Non-Exhaustive) Project Directory
 
 ### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [DeepSearchKit](https://github.com/fakerybakery/deepsearchkit) [Tortoise TTS Guide](https://codeberg.org/tortoisetts/tortoise-tts-guide)
