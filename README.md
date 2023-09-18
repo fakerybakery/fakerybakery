@@ -4,6 +4,10 @@
 
 ### You can now find me on [Codeberg](https://codeberg.org/mrfakename)!
 
+### Now working on OpenAssistantKit!
+
+September 17, 2023: I'm excited to announce that I'm now working on OpenAssistantKit (OAK). OAK is currently in development/limited testing, but it aims to create a virtual assistant that can perform tasks, such as checking email, sending messages, and creating calendar events. Although OAK is currently closed source, but if it gains enough interest I plan to open-source it eventually. [Learn more & Register Interest](https://github.com/fakerybakery/OAK_Interest_Registry_OpenAssistantKit)
+
 ## :flashlight: Product Spotlight: DeepSearchKit
 
 Easily integrate semantic search into your projects! Stop wasting hours building advanced, slow search algorithms! Let AI do the work for you! DeepSearchKit is free, fast, and open-sourced, with full GPU acceleration support, easy ways to save your embeddings, and more! Install today: `pip3 install deepsearchkit`
@@ -16,7 +20,7 @@ Twitter: [@realmrfakename](https://twitter.com/realmrfakename) (PS: Just got off
 
 ## :open_file_folder: (Non-Exhaustive) Project Directory
 
-### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [DeepSearchKit](https://github.com/fakerybakery/deepsearchkit), [Tortoise TTS Guide](https://codeberg.org/tortoisetts/tortoise-tts-guide)
+### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [DeepSearchKit](https://github.com/fakerybakery/deepsearchkit), [Tortoise TTS Guide](https://codeberg.org/tortoisetts/tortoise-tts-guide), OpenAssistantKit
 
 
 * [BalladGPT](https://balladgpt.github.io/)
