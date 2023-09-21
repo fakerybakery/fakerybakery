@@ -20,7 +20,7 @@ Twitter: [@realmrfakename](https://twitter.com/realmrfakename) (PS: Just got off
 
 ## :open_file_folder: (Non-Exhaustive) Project Directory
 
-### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [DeepSearchKit](https://github.com/fakerybakery/deepsearchkit), [Tortoise TTS Guide](https://codeberg.org/tortoisetts/tortoise-tts-guide), OpenAssistantKit
+### Currently working on: [Blessable](https://github.com/fakerybakery/blessable), [DeepSearchKit](https://github.com/fakerybakery/deepsearchkit), [Tortoise TTS Guide](https://codeberg.org/tortoisetts/tortoise-tts-guide) (Streaming MVP done, [REGISTER INTEREST](https://github.com/tortoise-tts-tools/tts-api)), OpenAssistantKit (AI General Assistant, Coming Soon, Email for Beta)
 
 
 * [BalladGPT](https://balladgpt.github.io/)
