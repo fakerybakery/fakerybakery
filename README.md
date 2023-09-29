@@ -1,4 +1,4 @@
-| Want different licensing support? Please contact me!
+| Want different licensing on my projects or faster support? Please contact me!
 | ---
 
 ## :globe_with_meridians: [Website](https://mrfake.name/) - [Blog](https://blog.mrfake.name/)
