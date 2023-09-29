@@ -20,6 +20,8 @@ September 17, 2023: I'm excited to announce that I'm now working on OpenAssistan
 
 Easily integrate semantic search into your projects! Stop wasting hours building advanced, slow search algorithms! Let AI do the work for you! DeepSearchKit is free, fast, and open-sourced, with full GPU acceleration support, easy ways to save your embeddings, and more! Install today: `pip3 install deepsearchkit`
 
+[Learn more...](https://github.com/fakerybakery/deepsearchkit)
+
 ## :scroll: Instantly Check the Licenses of the Packages Your Project Depends On!
 
 Check your requirements to make sure your requirements have the correct licenses! [Learn more...](https://github.com/ospyp/licscan)
