@@ -3,6 +3,10 @@
 
 ## :globe_with_meridians: [Website](https://mrfake.name/) - [Blog](https://blog.mrfake.name/)
 
+Hi :wave:! I'm mrfakename, a full-stack web developer interested in AI + LLMs!
+
+I mostly use Python now, but used to be primarily PHP/HTML/CSS. I still occasionally develop front-end website for fun.
+
 ## :sunglasses: Hobbies
 
 * [I like making Python packages for fun](https://github.com/ospyp)
