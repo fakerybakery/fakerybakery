@@ -47,7 +47,7 @@ Twitter: [@realmrfakename](https://twitter.com/realmrfakename) (PS: Just got off
 
 
 * [BalladGPT](https://balladgpt.github.io/)
-* [HFCrypt](https://github.com/hfcrypt/hfcrypt)
+* [HFCrypt](https://hfcrypt.github.io/#getstarted) - [NEW] Host closed-source code on Hugging Face Spaces via encryption & compression
 * [LinkShort](https://github.com/getlinkshort)
 * [BlogMark](https://github.com/BlogMark/BlogMark)
 * [Flarum in a Nutshell](https://github.com/getfian)
