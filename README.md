@@ -1,6 +1,14 @@
 | Want different licensing on my projects or faster support? Please contact me!
 | ---
 
+## Messages
+
+**Please license XTTS under an _open source_ license, Coqui!**
+
+**Thanks for creating StyleTTS 2!**
+
+---
+
 I have decided to stop using GPL. If you find any of my projects licensed under GPL, please let me know so I can change it.
 
 ![Stop GPL](https://img.shields.io/badge/Stop-GPL-red)
