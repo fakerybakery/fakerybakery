@@ -56,6 +56,7 @@ Twitter: [@realmrfakename](https://twitter.com/realmrfakename) (PS: Just got off
 ### Currently working on: [Blessable](https://github.com/ospyp/blessable), [DeepSearchKit](https://github.com/fakerybakery/deepsearchkit), [Tortoise TTS Guide](https://codeberg.org/tortoisetts/tortoise-tts-guide) (API: Streaming MVP done, [REGISTER INTEREST](https://github.com/tortoise-tts-tools/tts-api)), OpenAssistantKit (AI General Assistant, Coming Soon, [REGISTER INTEREST](https://github.com/fakerybakery/OAK_Interest_Registry_OpenAssistantKit)), PERSONALIZED NEWS FEED [REGISTER INTEREST](https://github.com/fakerybakery/pnf-interest-registry)
 
 
+* [VoiceFixer 2](https://github.com/voicefixer/voicefixer) - Restore degraded speech
 * [BalladGPT](https://balladgpt.github.io/)
 * [HFCrypt](https://hfcrypt.github.io/#getstarted) - [NEW] Host closed-source code on Hugging Face Spaces via encryption & compression
 * [LinkShort](https://github.com/getlinkshort)
