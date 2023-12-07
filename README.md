@@ -5,8 +5,6 @@
 
 **Please license XTTS under an _open source_ license, Coqui!**
 
-**Thanks for creating StyleTTS 2!**
-
 ---
 
 I have decided to stop using GPL. If you find any of my projects licensed under GPL, please let me know so I can change it.
