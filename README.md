@@ -11,8 +11,6 @@ I mostly use Python now, but used to be primarily PHP/HTML/CSS. I still occasion
 
 ## :newspaper_roll: News
 
-### You can now find me on [Codeberg](https://codeberg.org/mrfakename)!
-
 ### Now working on OpenAssistantKit!
 
 September 17, 2023: I'm excited to announce that I'm now working on OpenAssistantKit (OAK). OAK is currently in development/limited testing, but it aims to create a virtual assistant that can perform tasks, such as checking email, sending messages, and creating calendar events. Although OAK is currently closed source, but if it gains enough interest I plan to open-source it eventually. [Learn more & Register Interest](https://github.com/fakerybakery/OAK_Interest_Registry_OpenAssistantKit)
