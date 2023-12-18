@@ -1,3 +1,5 @@
+This profile page is a bit old... Not my latest projects. I do a lot of stuff on [Hugging Face](https://huggingface.co/mrfakename) - find me there.
+
 ## :globe_with_meridians: [Blog](https://mrfake.name/)
 
 Hi :wave:! I'm mrfakename, a full-stack web developer interested in AI + LLMs! I've recently started [tweeting](https://twitter.com/realmrfakename).
