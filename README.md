@@ -1,25 +1,6 @@
-| Want different licensing on my projects or faster support? Please contact me!
-| ---
+## :globe_with_meridians: [Blog](https://mrfake.name/)
 
-## Messages
-
-**Please license XTTS under an _open source_ license, Coqui!**
-
----
-
-I have decided to stop using GPL. If you find any of my projects licensed under GPL, please let me know so I can change it.
-
-![Stop GPL](https://img.shields.io/badge/Stop-GPL-red)
-
-Add this badge to your project!!
-
-```markdown
-![Stop GPL](https://img.shields.io/badge/Stop-GPL-red)
-```
-
-## :globe_with_meridians: [Website](https://mrfake.name/) - [Blog](https://blog.mrfake.name/)
-
-Hi :wave:! I'm mrfakename, a full-stack web developer interested in AI + LLMs!
+Hi :wave:! I'm mrfakename, a full-stack web developer interested in AI + LLMs! I've recently started [tweeting](https://twitter.com/realmrfakename).
 
 I mostly use Python now, but used to be primarily PHP/HTML/CSS. I still occasionally develop front-end website for fun.
 
