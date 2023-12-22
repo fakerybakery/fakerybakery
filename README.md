@@ -36,7 +36,7 @@ licscan -f requirements.txt -a MIT ISC Apache BSD WTFPL Unlicense CC0 NOSCL
 
 E-mail: `me [ @ ] mrfake [ dot ] name`
 
-Twitter: [@realmrfakename](https://twitter.com/realmrfakename) (PS: Just got off BSKY waitlist, but I literally never use it. Anyway, I'm @mfn there.)
+Twitter: [@realmrfakename](https://twitter.com/realmrfakename)
 
 ## :open_file_folder: (Non-Exhaustive) Project Directory
 
