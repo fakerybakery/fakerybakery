@@ -29,7 +29,7 @@ Check your requirements to make sure your requirements have the correct licenses
 
 ```bash
 pip install licscan
-licscan -f requirements.txt -a MIT ISC Apache BSD WTFPL Unlicense CC0 NOSCL
+licscan -f requirements.txt -a MIT ISC Apache BSD WTFPL Unlicense CC0
 ```
 
 ## :telephone_receiver: Contact
