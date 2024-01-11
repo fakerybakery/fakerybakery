@@ -43,7 +43,6 @@ Twitter: [@realmrfakename](https://twitter.com/realmrfakename)
 
 
 * [VoiceFixer 2](https://github.com/voicefixer/voicefixer) - Restore degraded speech
-* [BalladGPT](https://balladgpt.github.io/)
 * [HFCrypt](https://hfcrypt.github.io/#getstarted) - [NEW] Host closed-source code on Hugging Face Spaces via encryption & compression
 * [LinkShort](https://github.com/getlinkshort)
 * [BlogMark](https://github.com/BlogMark/BlogMark)
