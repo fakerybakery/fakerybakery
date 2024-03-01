@@ -2,4 +2,4 @@
 [Twitter](https://twitter.com/realmrfakename)
 [Blog](https://mrfake.name/)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=fakerybakery)](https://git.io/streak-stats)
+![GitHub Streak](https://streak-stats.demolab.com/?user=fakerybakery)
